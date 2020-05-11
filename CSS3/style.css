@@ -1,15 +1,15 @@
 *  {
-	font-family: Arial, Helvetica, sans-derif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 }
 
 body {
-	backgroud-color: rgb(204, 157, 248);
+	background-color: #F2FFFC;
 	
 }
 
 main {
-	backgroud-color: white;
+	background-color: #F2FFFC;
 	width: 500px;
 	margin: auto;
 	padding: 10px;
